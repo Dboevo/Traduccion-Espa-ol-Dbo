@@ -1,1 +1,4 @@
-# Traduccion-Espa-ol-Dbo
+# Traduccion-Español-Dbo
+
+
+Miembros
