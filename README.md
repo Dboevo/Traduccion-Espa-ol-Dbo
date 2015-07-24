@@ -4,4 +4,4 @@
 Miembros
 -
 -Zindel
--Shanks
+-Shanks XD
