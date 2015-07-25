@@ -9,10 +9,10 @@ Traducir.
 
 3. Al abrir el programa babidi en la seccion client deben buscar los siguientes archivos que estaran en la carpeta lang del repositorio
 
--Define = local_def.dat
--Alarmtype = local_msg_dat.dat
--Korean Data and Japanese Data = local_data.dat
--User Data = msgboxworkid.dat
+.Define = local_def.dat
+.Alarmtype = local_msg_dat.dat
+.Korean Data and Japanese Data = local_data.dat
+.User Data = msgboxworkid.dat
 
 4. clic en save config
 
